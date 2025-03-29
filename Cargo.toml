@@ -150,3 +150,19 @@ path = "src/challenge_35.rs"
 [[bin]]
 name = "challenge_36"
 path = "src/challenge_36.rs"
+
+[[bin]]
+name = "challenge_37"
+path = "src/challenge_36.rs"
+
+[[bin]]
+name = "challenge_38"
+path = "src/challenge_36.rs"
+
+[[bin]]
+name = "challenge_39"
+path = "src/challenge_36.rs"
+
+[[bin]]
+name = "challenge_40"
+path = "src/challenge_36.rs"
