@@ -1,4 +1,4 @@
-use school_challenges_rust::utils::input;
+use school_challenges_rust::utils::*;
 
 fn main() {
     println!("Challenge 34");

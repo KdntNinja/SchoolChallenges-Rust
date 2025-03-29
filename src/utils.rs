@@ -1,11 +1,8 @@
-use std::io::{self, Write};
+use std::io;
 
 pub fn input(prompt: &str) -> String {
-    print!("{}", prompt);
-    io::stdout().flush().unwrap();
+    println!("{}", prompt);
     let mut input: String = String::new();
-    io::stdin()
-        .read_line(&mut input)
-        .expect("Failed to read input");
+    io::stdin().read_line(&mut input).expect("Failed to read line");
     input.trim().to_string()
 }

@@ -1,5 +1,8 @@
-use school_challenges_rust::utils::input;
+use school_challenges_rust::utils::*;
 
 fn main() {
-    println!("Challenge 4");
+    let first_name: String = input("Enter your first name: ");
+    let surname: String = input("Enter your surname: ");
+
+    println!("{} {}", first_name, surname);
 }

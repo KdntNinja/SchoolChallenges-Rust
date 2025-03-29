@@ -1,4 +1,4 @@
-use school_challenges_rust::utils::input;
+use school_challenges_rust::utils::*;
 use std::collections::HashMap;
 
 fn main() {
