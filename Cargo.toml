@@ -166,3 +166,6 @@ path = "src/difficulty_9/challenge_39.rs"
 [[bin]]
 name = "challenge_40"
 path = "src/difficulty_10/challenge_40.rs"
+
+[dependencies]
+rand = "0.9.0"

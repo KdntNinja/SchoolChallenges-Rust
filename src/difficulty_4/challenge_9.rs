@@ -1,7 +1,7 @@
 use school_challenges_rust::utils::*;
 
 fn main() {
-    let stored_name: &str = "Kaiden"; // Randomly chosen first name
+    let stored_name: &str = "Kaiden";
 
     let user_name: String = input("Enter your first name: ");
 
