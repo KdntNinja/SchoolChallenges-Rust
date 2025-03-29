@@ -9,8 +9,12 @@ fn calculate_total_cost(minutes: u32, texts: u32) -> f64 {
 }
 
 fn main() {
-    let minutes: u32 = input("Enter the number of minutes used: ").parse::<u32>().expect("Please enter a valid number");
-    let texts: u32 = input("Enter the number of texts used: ").parse::<u32>().expect("Please enter a valid number");
+    let minutes: u32 = input("Enter the number of minutes used: ")
+        .parse::<u32>()
+        .expect("Please enter a valid number");
+    let texts: u32 = input("Enter the number of texts used: ")
+        .parse::<u32>()
+        .expect("Please enter a valid number");
 
     let total_cost: f64 = calculate_total_cost(minutes, texts);
 

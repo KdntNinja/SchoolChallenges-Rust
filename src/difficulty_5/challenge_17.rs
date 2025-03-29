@@ -1,5 +1,5 @@
-use school_challenges_rust::utils::*;
-
 fn main() {
-    println!("Challenge 17");
+    for i in 1..11 {
+        println!("{}", i)
+    }
 }

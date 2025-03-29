@@ -9,8 +9,5 @@ fn main() {
         .expect("Not a valid number");
 
     let holiday_allowance = (days_per_week / FULL_TIME_DAYS) * FULL_TIME_HOLIDAY;
-    println!(
-        "You get {:.1} days of holiday per year.",
-        holiday_allowance
-    );
+    println!("You get {:.1} days of holiday per year.", holiday_allowance);
 }
