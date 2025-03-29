@@ -9,160 +9,160 @@ path = "src/lib.rs"
 
 [[bin]]
 name = "challenge_1"
-path = "src/challenge_1.rs"
+path = "src/difficulty_1/challenge_1.rs"
 
 [[bin]]
 name = "challenge_2"
-path = "src/challenge_2.rs"
+path = "src/difficulty_1/challenge_2.rs"
 
 [[bin]]
 name = "challenge_3"
-path = "src/challenge_3.rs"
+path = "src/difficulty_1/challenge_3.rs"
 
 [[bin]]
 name = "challenge_4"
-path = "src/challenge_4.rs"
+path = "src/difficulty_1/challenge_4.rs"
 
 [[bin]]
 name = "challenge_5"
-path = "src/challenge_5.rs"
+path = "src/difficulty_2/challenge_5.rs"
 
 [[bin]]
 name = "challenge_6"
-path = "src/challenge_6.rs"
+path = "src/difficulty_2/challenge_6.rs"
 
 [[bin]]
 name = "challenge_7"
-path = "src/challenge_7.rs"
+path = "src/difficulty_2/challenge_7.rs"
 
 [[bin]]
 name = "challenge_8"
-path = "src/challenge_8.rs"
+path = "src/difficulty_3/challenge_8.rs"
 
 [[bin]]
 name = "challenge_9"
-path = "src/challenge_9.rs"
+path = "src/difficulty_4/challenge_9.rs"
 
 [[bin]]
 name = "challenge_10"
-path = "src/challenge_10.rs"
+path = "src/difficulty_4/challenge_10.rs"
 
 [[bin]]
 name = "challenge_11"
-path = "src/challenge_11.rs"
+path = "src/difficulty_4/challenge_11.rs"
 
 [[bin]]
 name = "challenge_12"
-path = "src/challenge_12.rs"
+path = "src/difficulty_4/challenge_12.rs"
 
 [[bin]]
 name = "challenge_13"
-path = "src/challenge_13.rs"
+path = "src/difficulty_4/challenge_13.rs"
 
 [[bin]]
 name = "challenge_14"
-path = "src/challenge_14.rs"
+path = "src/difficulty_5/challenge_14.rs"
 
 [[bin]]
 name = "challenge_15"
-path = "src/challenge_15.rs"
+path = "src/difficulty_5/challenge_15.rs"
 
 [[bin]]
 name = "challenge_16"
-path = "src/challenge_16.rs"
+path = "src/difficulty_5/challenge_16.rs"
 
 [[bin]]
 name = "challenge_17"
-path = "src/challenge_17.rs"
+path = "src/difficulty_5/challenge_17.rs"
 
 [[bin]]
 name = "challenge_18"
-path = "src/challenge_18.rs"
+path = "src/difficulty_5/challenge_18.rs"
 
 [[bin]]
 name = "challenge_19"
-path = "src/challenge_19.rs"
+path = "src/difficulty_5/challenge_19.rs"
 
 [[bin]]
 name = "challenge_20"
-path = "src/challenge_20.rs"
+path = "src/difficulty_5/challenge_20.rs"
 
 [[bin]]
 name = "challenge_21"
-path = "src/challenge_21.rs"
+path = "src/difficulty_5/challenge_21.rs"
 
 [[bin]]
 name = "challenge_22"
-path = "src/challenge_22.rs"
+path = "src/difficulty_5/challenge_22.rs"
 
 [[bin]]
 name = "challenge_23"
-path = "src/challenge_23.rs"
+path = "src/difficulty_5/challenge_23.rs"
 
 [[bin]]
 name = "challenge_24"
-path = "src/challenge_24.rs"
+path = "src/difficulty_5/challenge_24.rs"
 
 [[bin]]
 name = "challenge_25"
-path = "src/challenge_25.rs"
+path = "src/difficulty_5/challenge_25.rs"
 
 [[bin]]
 name = "challenge_26"
-path = "src/challenge_26.rs"
+path = "src/difficulty_5/challenge_26.rs"
 
 [[bin]]
 name = "challenge_27"
-path = "src/challenge_27.rs"
+path = "src/difficulty_5/challenge_27.rs"
 
 [[bin]]
 name = "challenge_28"
-path = "src/challenge_28.rs"
+path = "src/difficulty_6/challenge_28.rs"
 
 [[bin]]
 name = "challenge_29"
-path = "src/challenge_29.rs"
+path = "src/difficulty_6/challenge_29.rs"
 
 [[bin]]
 name = "challenge_30"
-path = "src/challenge_30.rs"
+path = "src/difficulty_6/challenge_30.rs"
 
 [[bin]]
 name = "challenge_31"
-path = "src/challenge_31.rs"
+path = "src/difficulty_6/challenge_31.rs"
 
 [[bin]]
 name = "challenge_32"
-path = "src/challenge_32.rs"
+path = "src/difficulty_6/challenge_32.rs"
 
 [[bin]]
 name = "challenge_33"
-path = "src/challenge_33.rs"
+path = "src/difficulty_7/challenge_33.rs"
 
 [[bin]]
 name = "challenge_34"
-path = "src/challenge_34.rs"
+path = "src/difficulty_7/challenge_34.rs"
 
 [[bin]]
 name = "challenge_35"
-path = "src/challenge_35.rs"
+path = "src/difficulty_7/challenge_35.rs"
 
 [[bin]]
 name = "challenge_36"
-path = "src/challenge_36.rs"
+path = "src/difficulty_8/challenge_36.rs"
 
 [[bin]]
 name = "challenge_37"
-path = "src/challenge_36.rs"
+path = "src/difficulty_8/challenge_37.rs"
 
 [[bin]]
 name = "challenge_38"
-path = "src/challenge_36.rs"
+path = "src/difficulty_9/challenge_38.rs"
 
 [[bin]]
 name = "challenge_39"
-path = "src/challenge_36.rs"
+path = "src/difficulty_9/challenge_39.rs"
 
 [[bin]]
 name = "challenge_40"
-path = "src/challenge_36.rs"
+path = "src/difficulty_10/challenge_40.rs"
