@@ -1,7 +1,5 @@
-use rand::Rng;
-use std::io::{self, Write};
-
 pub fn input(prompt: &str) -> String {
+    use std::io::{self, Write};
     print!("{}", prompt);
     io::stdout().flush().unwrap();
     let mut input: String = String::new();
@@ -12,6 +10,7 @@ pub fn input(prompt: &str) -> String {
 }
 
 pub fn random(min: usize, max: usize) -> usize {
+    use rand::Rng;
     let mut rng = rand::rng();
     rng.random_range(min..max)
 }

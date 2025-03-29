@@ -7,9 +7,11 @@ fn main() {
         .parse::<f64>()
         .expect("Invalid amount");
 
-    let coin_choice: u8 = input("Select a coin to convert into (1: £1, 2: 50p, 3: 20p, 4: 10p, 5: 5p, 6: 2p, 7: 1p): ")
-        .parse::<u8>()
-        .expect("Invalid choice");
+    let coin_choice: u8 = input(
+        "Select a coin to convert into (1: £1, 2: 50p, 3: 20p, 4: 10p, 5: 5p, 6: 2p, 7: 1p): ",
+    )
+    .parse::<u8>()
+    .expect("Invalid choice");
 
     let coin_value: f64 = match coin_choice {
         1 => 1.0,
@@ -26,5 +28,8 @@ fn main() {
     };
 
     let num_coins: u32 = (amount / coin_value).floor() as u32;
-    println!("You will receive {} coins of value £{:.2}.", num_coins, coin_value);
+    println!(
+        "You will receive {} coins of value £{:.2}.",
+        num_coins, coin_value
+    );
 }
