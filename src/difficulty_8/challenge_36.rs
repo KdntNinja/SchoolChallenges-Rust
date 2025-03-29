@@ -1,5 +1,5 @@
-use std::collections::HashMap;
 use school_challenges_rust::utils::input;
+use std::collections::HashMap;
 
 fn main() {
     let fuel_prices = HashMap::from([(1, 1.40), (2, 1.55), (3, 0.95)]);
